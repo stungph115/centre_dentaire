@@ -1,0 +1,19 @@
+DM vacances: conception et developpment d'un sit internet
+
+Gestion d'un projet avec au moins cinq tables:
+avec les opération: ajouter/supprimer/ lister
+et des requetes de jointures entre deux table ou plus
+
+Faire un sujet parmi les sujet suivants:
+1) Gestion d'une association (membre, projet, cotisation, etc)
+2) Gestion d'un cabinet médical (patient, médecin, rdv, etc)
+3) Gestion de salles de Foot Five (joueur, équipe, salle, etc)
+4) Gestion d'un Garage Auto (Client, technicien, intervention, véhicule)
+5) Gestion d'un de location de matériel en voisins (habitant, matériel, catégorie, location, etc)
+
+<footer>
+	<br><h1> Gestion de cabinet dentaire La dent d'or</h1> <br>  
+<marquee> Le nouveau maquillage pour votre sourire !																			 Un sourire, ça change tout  !</marquee>  <br> <br/>
+<float><img src="images/logo.png" width="250" height="200"> <br><br> </float> 
+
+</footer>
